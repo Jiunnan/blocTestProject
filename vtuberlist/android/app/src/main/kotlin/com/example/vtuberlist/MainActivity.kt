@@ -1,0 +1,6 @@
+package com.example.vtuberlist
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

@@ -1,0 +1,6 @@
+
+
+enum LoadingJudge {
+  ToLogin,
+  ToAutoLoading
+}
